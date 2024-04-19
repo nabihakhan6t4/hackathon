@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "poppins";
+    src: url(fonts/Poppins-Regular.ttf);
+}
+body{
+    overflow-x: hidden;
+    font-family: "poppins";
+    background: #B844FF;
+   
+
+
+}
+.bg{
+    background: rgba(52, 33, 52, 0.5);
+    border: 1px solid;
+
+    border-image-source: linear-gradient(92.71deg, rgba(255, 255, 255, 0.18) 0%, rgba(255, 255, 255, 0.17) 100%);
+    
+    
+}
+
